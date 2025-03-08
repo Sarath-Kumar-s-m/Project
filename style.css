@@ -1,0 +1,14 @@
+#image-1 {
+        width: 100%;
+        height: 500px; 
+        background-image: url('./Image/WhatsApp\ Image\ 2025-03-08\ at\ 11.25.34_04565c14.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        object-fit:fill;
+}
+
+#font {
+   font-family: sans-serif;        
+}
+
